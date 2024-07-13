@@ -1,4 +1,4 @@
-https://landing-project-beauty.vercel.app/contact - live page.
+https://landing-project-beauty.vercel.app - live page.
 
 
 
